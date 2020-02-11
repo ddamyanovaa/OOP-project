@@ -1,0 +1,22 @@
+open figures.svg
+ 
+print
+
+ 
+create rectangle -1000 -1000 10 20 yellow
+
+ 
+print
+
+ 
+erase 2
+
+ 
+erase 100
+
+print
+translate vertical= 10 horizontal= 100
+print
+save 
+exit
+
